@@ -15,6 +15,7 @@ Protocol:
 - Pathology library
 
 Extra services:
+- Community discussion platforms (www.tfcMighty.com)
 - pair with a partner (given a start date and partners email)
 - Ask a Foot Nerd for help (database of Nerd emails offered - name, email, timezone, languages)
 
