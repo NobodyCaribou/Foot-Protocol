@@ -10,9 +10,9 @@ Breakdown: 20% information, 60% experimentation, 20% reflection
 
 Protocol:
 - 12 lessons (video)
-- PDF checklist
-- Experiment searchbase
-- Pathology library
+- Tools
+- Templates
+- Resources
 
 Extra services:
 - Community discussion platforms (www.tfcMighty.com)
