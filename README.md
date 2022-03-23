@@ -19,4 +19,4 @@ Extra services:
 - pair with a partner (given a start date and partners email)
 - Ask a Foot Nerd for help (database of Nerd emails offered - name, email, timezone, languages)
 
-Current experience offered: TFC Foot HealthKit
+Current experience offered: www.TfcHealthkits.com
