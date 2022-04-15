@@ -2,7 +2,7 @@
 
 This is health software. It only works if you contribute the energy to run it on your human hardware
 
-Commitment: 20 minutes per day for 42 days (6 weeks, 14 hours)
+Commitment: 30 minutes per day for 42 days (6 weeks, 21 hours)
 
 Objective: Restore natural foot health
 
